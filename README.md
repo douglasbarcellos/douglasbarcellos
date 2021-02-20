@@ -1,4 +1,4 @@
-### Hi there 👋 Cellão, aqui.
+### Hi there 👋 Cellão here.
 
 <!--
 **ocellao/ocellao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
