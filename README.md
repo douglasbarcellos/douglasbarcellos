@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cellão</h1>
 <h3 align="center">Frontend Developer from Rio de Janeiro</h3>
 
-- Administrative supervisor [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
-
 - 🌱 I’m currently learning **React, Node.js and Python**
 
-- Frontend Developer [Cellão - Freelancer](https://ocellao.github.io/)
+- Administrative supervisor [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-- 👨‍💻 My portfolio [https://ocellao.github.io/](https://ocellao.github.io/)
+- Frontend Developer [Cellão - Freelancer](https://ocellao.github.io/)
 
 - 📝 I write articles on [https://ocellao.medium.com/](https://ocellao.medium.com/)
 
