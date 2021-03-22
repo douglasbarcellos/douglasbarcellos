@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cellão</h1>
+<h1 align="center">Hi 👋 I'm Cellão</h1>
 <h3 align="center">Frontend Developer from Rio de Janeiro</h3>
 
 - 🌱 I’m currently learning **React, Node.js and Python**
