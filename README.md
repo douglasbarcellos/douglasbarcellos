@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and Python**
 
-- Administrative supervisor [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
+- Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
 - Frontend Developer [Cellão - Freelancer](https://ocellao.github.io/)
 
