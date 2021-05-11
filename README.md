@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Cellão</h1>
+<h1 align="center">Hi 👋, I'm Barcellos</h1>
 <h3 align="center">Frontend Developer from Rio de Janeiro</h3>
 
 - 🌱 I’m currently learning **React, Node.js and Python**
 
 - Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-- Frontend Developer [Cellão - Freelancer](https://ocellao.github.io/)
+- Frontend Developer [Barcellos - Freelancer](https://dbarcelloss.github.io/)
 
-- 📝 I write articles on [https://ocellao.medium.com/](https://ocellao.medium.com/)
+- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
 
 - 📫 Email **douglasbarcellosti@gmail.com**
 
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglasbarcellosti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasbarcellosti" height="30" width="40" /></a>
-<a href="https://instagram.com/ocellao" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ocellao" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucyijsjnko4xki4hgjujoiww" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="douglas barcellos - cellão" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ocellao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/ocellao" height="30" width="40" /></a>
+<a href="https://instagram.com/dbarcelloss" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dbarcelloss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucyijsjnko4xki4hgjujoiww" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="douglas barcellos - dbarcelloss" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dbarcelloss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/dbarcelloss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
