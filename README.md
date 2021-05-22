@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React, Node.js and Python**
 
+- Web Developer [Barcellos - Freelancer](https://dbarcelloss.github.io/)
+
 - Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-- Frontend Developer [Barcellos - Freelancer](https://dbarcelloss.github.io/)
-
-- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
+- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/douglasbarcelloss/)
 
 - 📫 Email **douglasbarcellosti@gmail.com**
 
