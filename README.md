@@ -6,7 +6,7 @@
 
 - Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/douglasbarcelloss/)
+- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
 
 - 📫 Email **douglasbarcellosti@gmail.com**
 
