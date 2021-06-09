@@ -6,11 +6,11 @@
 
 - Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-- 📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
+📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
 
-- 📫 Email **douglasbarcellosti@gmail.com**
+📫 Email **douglasbarcellosti@gmail.com**
 
-- ⚡ Fun fact **I'm a musician spare time**
+⚡ Fun fact **I'm a musician spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
