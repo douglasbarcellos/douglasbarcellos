@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋 I'm DBarcellos</h1>
+<h1 align="center">Hi 👋 I'm Douglas Barcellos</h1>
 <h3 align="center">Web Developer from Rio de Janeiro</h3>
 <h4 align="center">I’m currently learning React, Node.js and Python</h4>
 
-- Front End Web Developer [DBarcellos - Freelancer](https://dbarcelloss.github.io/)
+- Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/)
 
 - Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-📝 I write articles on [@dbarcelloss](https://www.instagram.com/dbarcelloss/)
+📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/)
 
 📫 Email **douglasbarcellosti@gmail.com**
 
