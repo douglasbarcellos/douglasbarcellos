@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Douglas Barcellos</h1>
 <h4 align="center">Web Developer. I’m currently learning React, Node.js and Python</h4>
-- Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
+Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
 📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/)
 
