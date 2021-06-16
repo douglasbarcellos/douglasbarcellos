@@ -3,9 +3,7 @@
 
 Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/)
-
-📫 Email **douglasbarcellosti@gmail.com**
+📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/) | 📫 Email **douglasbarcellosti@gmail.com**
 
 ⚡ Fun fact **I'm a musician spare time**
 
