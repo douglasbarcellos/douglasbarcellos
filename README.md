@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Douglas Barcellos</h1>
-<h4 align="center">Web Developer. I’m currently learning React, Node.js and Python</h4>
+Hi 👋 I'm Douglas Barcellos
+Web Developer. I’m currently learning React, Node.js and Python
 
 Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
