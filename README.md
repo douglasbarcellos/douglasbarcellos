@@ -1,4 +1,5 @@
 Hi 👋 I'm Douglas Barcellos
+
 Web Developer. I’m currently learning React, Node.js and Python
 
 Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
