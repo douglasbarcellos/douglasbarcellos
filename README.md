@@ -2,7 +2,7 @@ Hi 👋 I'm Douglas Barcellos
 
 Web Developer. I’m currently learning React, Node.js and Python
 
-Front End Web Developer [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
+Web Specialist [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
 📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/) | 📫 Email **douglasbarcellosti@gmail.com**
 
