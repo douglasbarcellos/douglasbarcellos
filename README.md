@@ -1,6 +1,6 @@
 Hi 👋 I'm Douglas Barcellos
 
-Web Developer. I’m currently learning React, Node.js and Python
+Web Developer | Marketing. I’m currently learning React, Node.js and Python
 
 Web Specialist [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
