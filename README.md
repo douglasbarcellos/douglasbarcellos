@@ -1,4 +1,4 @@
-Hi 👋 I'm Douglas Barcellos
+Hello, world 👋 I'm Douglas Barcellos
 
 Web Developer | Marketing. I’m currently learning React, Node.js and Python
 
