@@ -4,7 +4,8 @@ Web Developer | Marketing. Atualmente estou aprendendo React, Node.js e Python
 
 Especialista Web - [Freelancer](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium/@douglasbarcellos](https://medium.com/@douglasbarcellos) | 📫 Email **douglasbarcellosti@gmail.com**
+📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium/@douglasbarcellos](https://medium.com/@douglasbarcellos) 
+📫 Email **douglasbarcellosti@gmail.com**
 
 ⚡ Fun fact **Sou Musicista nas horas vagas**
 
