@@ -1,14 +1,14 @@
-Hello, world 👋 I'm Douglas Barcellos
+Hello, world 👋 Sou Douglas Barcellos
 
 Web Developer | Marketing. Atualmente estou aprendendo React, Node.js e Python
 
 Especialista Web - [Freelancer](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium](https://medium.com/@douglasbarcellos) | 📫 Email **douglasbarcellosti@gmail.com**
+📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium/@douglasbarcellos](https://medium.com/@douglasbarcellos) | 📫 Email **douglasbarcellosti@gmail.com**
 
 ⚡ Fun fact **Sou Musicista nas horas vagas**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacte-me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglasbarcellos" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="douglasbarcellos" height="30" width="40" /></a>
 <a href="https://instagram.com/douglasbarcelloss" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglasbarcelloss" height="30" width="40" /></a>
