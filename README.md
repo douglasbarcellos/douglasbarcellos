@@ -1,12 +1,12 @@
 Hello, world 👋 I'm Douglas Barcellos
 
-Web Developer | Marketing. I’m currently learning React, Node.js and Python
+Web Developer | Marketing. Atualmente estou aprendendo React, Node.js e Python
 
-Web Specialist [Freelancer](https://douglasbarcellos.github.io/) | Administrative Analyst [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
+Especialista Web - [Freelancer](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-📝 I write articles on [@douglasbarcelloss](https://www.instagram.com/dbarcelloss/) | 📫 Email **douglasbarcellosti@gmail.com**
+📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium](https://medium.com/@douglasbarcellos) | 📫 Email **douglasbarcellosti@gmail.com**
 
-⚡ Fun fact **I'm a musician spare time**
+⚡ Fun fact **Sou Musicista nas horas vagas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
