@@ -15,8 +15,8 @@ Especialista Web - [Freelancer](https://douglasbarcellos.github.io/) | Analista 
 
 <h3 align="left">Contacte-me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/douglasbarcellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasbarcellos" height="30" width="40" /></a>
-<a href="https://instagram.com/douglasbarcelloss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglasbarcelloss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyijsjnko4xki4hgjujoiww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Douglas Barcellos" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dbarcelloss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dbarcelloss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglasbarcellos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasbarcellos" height="30" width="40" /></a>
+<a href="https://instagram.com/douglasbarcelloss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglasbarcelloss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyijsjnko4xki4hgjujoiww" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Douglas Barcellos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dbarcelloss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dbarcelloss" height="30" width="40" /></a>
 </p>
