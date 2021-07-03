@@ -1,4 +1,4 @@
-Hello, world 👋 Sou Douglas Barcellos
+Hello, world <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> Sou Douglas Barcellos
 
 Web Developer | Marketing. Atualmente estou aprendendo React, Node.js e Python
 
