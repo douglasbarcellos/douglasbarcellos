@@ -1,6 +1,6 @@
 Hello, world <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> Sou Douglas Barcellos
 
-Web Developer | Marketing. Atualmente estou aprendendo React, Node.js e Python
+Acadêmico em Marketing e Engenharia de Software | Atualmente estou aprendendo React, Node.js e Python
 
 Especialista Web - [Freelancer](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
