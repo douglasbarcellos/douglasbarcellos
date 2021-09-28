@@ -1,6 +1,6 @@
 Olá, Mundo <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> Sou Douglas Barcellos.
 
-Bacharelando em Engenharia de Software | Atualmente estou aprendendo Python
+Bacharelando em Engenharia de Software | Atualmente estou aprendendo React e Python
 
 Especialista Web - [DB Web](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
