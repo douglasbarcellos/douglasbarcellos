@@ -1,14 +1,12 @@
 Olá, Mundo <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> Sou Douglas Barcellos.
 
-Bacharelando em Engenharia de Software | Atualmente estou aprendendo React e Python
+- Bacharelando em Engenharia de Software | Aprendendo React e Python
+- Especialista Web - [DB Web](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
-Especialista Web - [DB Web](https://douglasbarcellos.github.io/) | Analista Administrativo - [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
-
-📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium/@douglasbarcellos](https://medium.com/@douglasbarcellos)
-
+📝 Costumo escrever em [@douglasbarcelloss](https://www.instagram.com/douglasbarcelloss/) e [Medium/@douglasbarcellos](https://medium.com/@douglasbarcellos)<br>
 📫 Email **douglasbarcellosti@gmail.com**
 
-⚡ Fun fact **Sou Musicista nas horas vagas**
+⚡ Fun fact **Musicista nas horas vagas**
 
 <h3 align="left">Skills:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></p>
