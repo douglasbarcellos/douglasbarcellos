@@ -1,6 +1,6 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-- Aprendendo Python (Backend + Análise de Dados) e Power BI
+- Aprendendo Python e Power BI
 - Marketing e Engenharia de Software 
 - Analista Administrativo na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
 
