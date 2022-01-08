@@ -2,7 +2,7 @@
 
 :rocket: Praticando JS, Python e SQL<br />
 :mortar_board: Marketing e Engenharia de Software<br />
-:office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)
+:office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)<br />
 :office: Analista Web na [D'artnei](https://www.instagram.com/dartnei/)
 
 
