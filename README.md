@@ -1,8 +1,8 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 :rocket: Praticando JS, Python e SQL<br />
-:mortar_board: Marketing e Engenharia de Software<br />
-:office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/) / Analista Web na [D'artnei](https://www.instagram.com/dartnei/)
+:mortar_board: Marketing e Análise e Desenvolvimento de Sistemas<br />
+:office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/) 
 
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
