@@ -1,6 +1,6 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-:rocket: Praticando JavaScript/ReactJs, NodeJs e Java<br />
+:rocket: Praticando Python, Power BI, SQL e NoSQL e Machine Learning<br />
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
 :office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/) 
 
