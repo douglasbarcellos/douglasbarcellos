@@ -1,6 +1,7 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
+:skill: Skills: JavaScript, NodeJS, Bootstrap, HTML5/CSS3<br />
 :rocket: Praticando Python, Power BI, Banco de Dados e Machine Learning<br />
 :office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/) 
 
