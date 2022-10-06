@@ -1,8 +1,8 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-:rocket: Skills: JavaScript, NodeJS, Bootstrap, HTML5/CSS3<br />
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
-:rocket: Praticando Python, Power BI, Banco de Dados e Machine Learning<br />
+:pushpin: Skills: JavaScript, NodeJS, MySQL, Bootstrap, HTML5 e CSS3<br />
+:rocket: Aprendendo e praticando diariamente: Python, Power BI, Banco de Dados e Machine Learning<br />
 :office: Analista Adm/Mkt na [Bonjour Doceria](https://www.instagram.com/bonjourdoceria/)<br />
 
 [![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://douglasbarcellos.github.io/)](https://douglasbarcellos.github.io/)
