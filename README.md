@@ -2,7 +2,7 @@
 
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
 :pushpin: Skills: JavaScript, NodeJS, SQL, Bootstrap, HTML5 e CSS3 <br />
-:rocket: Aprendendo e praticando diariamente: Python, Django, Power BI e Banco de Dados<br />
+:rocket: Praticando diariamente: Python, Django, Power BI e Banco de Dados<br />
 
 [![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://douglasbarcellos.github.io/)](https://douglasbarcellos.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/douglasbarcelloss/)](https://www.instagram.com/douglasbarcelloss/)
