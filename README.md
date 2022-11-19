@@ -1,6 +1,6 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-:mortar_board: Marketing | Análise e Desenvolvimento de Sistemas <br />
+:mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
 :pushpin: Skills: `JavaScript`, `NodeJS`, `SQL`, `Bootstrap`, `HTML5` e `CSS3`<br />
 :rocket: Praticando diariamente: `Python`, `Django`, `Power BI` e `Banco de Dados`<br />
 
