@@ -1,7 +1,7 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
-:pushpin: Skills: `JavaScript`, `NodeJS`, `SQL/MySQL`, `Python`, `Django`, `Bootstrap 4`, `HTML5` e `CSS3`<br />
+:pushpin: Skills: `JavaScript`, `Java`, `Spring Boot`, `SQL/MySQL`, `Python`, `Django`, `Power BI`, `Bootstrap 4`, `HTML5` e `CSS3`<br />
 
 [![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://douglasbarcellos.github.io/)](https://douglasbarcellos.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/douglasbarcelloss/)](https://www.instagram.com/douglasbarcelloss/)
