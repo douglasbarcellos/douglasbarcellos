@@ -1,4 +1,4 @@
-## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 
+## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 :mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
 :pushpin: Skills: `JavaScript`, `ReactJS`, `NodeJS`, `MongoDB`, `Python`, `Django`, `HTML5`/`CSS3`, `Bootstrap 4`<br />
