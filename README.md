@@ -1,6 +1,6 @@
 ## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-:mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br />
+:mortar_board: Marketing | Análise e Desenvolvimento de Sistemas<br /> 
 :pushpin: Skills: `JavaScript`, `Angular`, `Spring Boot`, `Python`, `Django`, `SQL`, `Bootstrap 4`, `HTML5`/`CSS3`<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasbarcellos/)](https://www.linkedin.com/in/douglasbarcellos/)
