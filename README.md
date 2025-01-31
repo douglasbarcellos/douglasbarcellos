@@ -36,8 +36,8 @@ Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além 
 
 ## 📌 Últimos Projetos
 
-- 🎨 Nutri Igor - [**Landing Page Responsiva**](https://nutriigor.com.br/) com foco em apresentação profissional e prospecção de clientes - Criada com JavaScript, Bootstrap, HTML e CSS.
-- 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/) - Aplicação para gerenciamento de finanças pessoais, permitindo acompanhar receitas, despesas e saldo em tempo real. Desenvolvido com **HTML5, CSS3 e JavaScript**.
+- 🎨 [**Nutri Igor - Landing Page Responsiva**](https://nutriigor.com.br/) focada na apresentação profissional e prospecção de clientes - JavaScript, Bootstrap, CSS3 e HTML5.
+- 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/) é uma aplicação para gerenciamento de finanças pessoais, permitindo acompanhar receitas, despesas e saldo em tempo real - JavaScript, CSS3 e HTML5.
 
 
 ---
