@@ -1,11 +1,56 @@
-## Douglas Barcellos <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+# 👋 Olá, eu sou Douglas Barcellos!
 
-:mortar_board: Analista de Sistemas, Mba em Marketing e Pós-graduando em Ciência de Dados<br /> 
-Skills: `Análise de dados`, `Python`, `SQL/MySQL`, `Microsoft Power BI`, `Microsoft Excel`, `JavaScript`, `ReactJS`, `NextJS`<br />
+🎓 **Analista de Sistemas** | 🎯 **MBA em Marketing** | 📊 **Pós-graduando em Ciência de Dados**  
+💻 **Desenvolvedor Frontend** apaixonado por tecnologia e design de interfaces modernas e performáticas.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasbarcellos/)](https://www.linkedin.com/in/douglasbarcellos/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/douglasbarcelloss/)](https://www.instagram.com/douglasbarcelloss/)
-[![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://douglasbarcellos.github.io/)](https://douglasbarcellos.github.io/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCYiJsJNko4xkI4HgjUjoIWw)](https://www.youtube.com/channel/UCYiJsJNko4xkI4HgjUjoIWw)
+---
 
-📫 Email **douglasbarcellosti@gmail.com**
+## 🚀 Sobre mim
+
+Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, estou focado em minha **transição para o Desenvolvimento Web**, combinando minha experiência em dados e tecnologia para criar aplicações eficientes, responsivas e escaláveis.  
+
+Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além de ter um sólido conhecimento em **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel**. 
+
+💡 Estou sempre buscando novas oportunidades para criar, aprender e contribuir!
+
+---
+
+## 🛠️ Tech Stack
+
+### **💻 Desenvolvimento Web**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **📊 Dados & Análises**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📌 Últimos Projetos
+
+- 🎨 Nutri Igor [**Landing Page Responsiva**](https://nutriigor.com.br/) - Criada com JavaScript, Bootstrap, HTML e CSS.
+- 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/) - Aplicação para gerenciamento de finanças pessoais, permitindo acompanhar receitas, despesas e saldo em tempo real. Desenvolvido com **HTML5, CSS3 e JavaScript**.
+
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascbarcellos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasbarcelloss)
+[![Website](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)]([https://seusite.com](https://github.com/douglasbarcellos)
+
+📧 **Email:** douglasbarcellosti@gmail.com  
+
+---
+
+⚡ *"Sempre aprendendo, sempre criando!"* 🚀
+
