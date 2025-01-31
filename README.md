@@ -36,7 +36,7 @@ Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além 
 
 ## 📌 Últimos Projetos
 
-- 🎨 Nutri Igor [**Landing Page Responsiva**](https://nutriigor.com.br/) - Criada com JavaScript, Bootstrap, HTML e CSS.
+- 🎨 Nutri Igor - [**Landing Page Responsiva**](https://nutriigor.com.br/) com foco em apresentação profissional e prospecção de clientes - Criada com JavaScript, Bootstrap, HTML e CSS.
 - 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/) - Aplicação para gerenciamento de finanças pessoais, permitindo acompanhar receitas, despesas e saldo em tempo real. Desenvolvido com **HTML5, CSS3 e JavaScript**.
 
 
@@ -46,7 +46,7 @@ Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascbarcellos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasbarcelloss)
-[![Website](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)]([https://seusite.com](https://github.com/douglasbarcellos)
+[![Website](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/douglasbarcellos)
 
 📧 **Email:** douglasbarcellosti@gmail.com  
 
