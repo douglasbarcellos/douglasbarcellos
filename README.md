@@ -1,21 +1,25 @@
 # 👋 Olá, eu sou Douglas Barcellos!
 
 🎓 **Analista de Sistemas** | 🎯 **MBA em Marketing** | 📊 **Pós-graduando em Ciência de Dados**  
-💻 **Desenvolvedor Frontend** apaixonado por tecnologia e design de interfaces modernas e performáticas.
 
 ---
 
 ## 🚀 Sobre mim
 
-Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, estou focado em minha **transição para o Desenvolvimento Web**, combinando minha experiência em dados e tecnologia para criar aplicações eficientes, responsivas e escaláveis.  
+Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, estou focado em minha **transição para a Análise de Dados**.  
 
-Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além de ter um sólido conhecimento em **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel**. 
+Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel** e tenho sólido conhecimento em **JavaScript, React.js, Next.js e TailwindCSS**.
 
 💡 Estou sempre buscando novas oportunidades para criar, aprender e contribuir!
 
 ---
 
 ## 🛠️ Tech Stack
+### **📊 Dados & Análises**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### **💻 Desenvolvimento Web**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,12 +29,6 @@ Atualmente, trabalho com **JavaScript, React.js, Next.js e TailwindCSS**, além 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **📊 Dados & Análises**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
