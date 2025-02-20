@@ -5,7 +5,7 @@
 
 Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, estou focado em minha **transição para a Análise de Dados**.  
 
-Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel** e tenho sólido conhecimento em **JavaScript, React.js, Next.js e TailwindCSS**.
+Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel** e tenho sólido conhecimento em **JavaScript, React.js e Python com Django**.
 
 💡 Estou sempre buscando novas oportunidades para criar, aprender e contribuir!
 ---
