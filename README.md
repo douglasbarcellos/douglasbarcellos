@@ -1,5 +1,4 @@
 # 👋 Olá, eu sou Douglas Barcellos!
-
 🎓 **Analista de Sistemas** | 🎯 **MBA em Marketing** | 📊 **Pós-graduando em Ciência de Dados**  
 
 ---
