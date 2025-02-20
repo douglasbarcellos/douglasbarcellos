@@ -7,7 +7,6 @@ Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Pag
 
 Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel** e tenho sólido conhecimento em **JavaScript, React.js e Python com Django**.
 
-💡 Estou sempre buscando novas oportunidades para criar, aprender e contribuir!
 ---
 ## 🛠️ Tech Stack
 ### **📊 Dados & Análises**
