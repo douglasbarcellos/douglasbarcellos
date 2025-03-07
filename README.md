@@ -3,9 +3,9 @@
 ---
 ## 🚀 Sobre mim
 
-Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, estou focado em minha **transição para a Análise de Dados**.  
+Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, como **Engenheiro de Soluções** conecto tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
 
-Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **Power BI e Excel** e tenho sólido conhecimento em **JavaScript, React.js e Python com Django**.
+Tenho trabalhado com **Python, SQL/MySQL, Power BI e Excel** e também com **JavaScript, ReactJS, NextJS e Django**.
 
 ---
 ## 🛠️ Tech Stack
@@ -18,6 +18,7 @@ Atualmente, trabalho com **Python, SQL/MySQL e ferramentas analíticas** como **
 ### **💻 Desenvolvimento Web**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
