@@ -18,9 +18,8 @@ Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Pag
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 📌 Últimos Projetos
-- 🎨 [**Nutri Igor - Landing Page Responsiva**](https://nutriigor.com.br/) focada na apresentação profissional e prospecção de clientes - JavaScript, Bootstrap, CSS3 e HTML5.
-- 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/) é uma aplicação para gerenciamento de finanças pessoais, permitindo acompanhar receitas, despesas e saldo em tempo real - JavaScript, CSS3 e HTML5.
-
+- 🎨 [**Nutri Igor - Landing Page Responsiva**](https://nutriigor.com.br/) | 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/)
+  
 #### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascbarcellos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasbarcelloss)
