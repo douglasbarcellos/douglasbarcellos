@@ -21,7 +21,7 @@ Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Pag
 - 🎨 [**Nutri Igor - Landing Page Responsiva**](https://nutriigor.com.br/) | 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/)
   
 #### 📫 Contato
-[![LinkedIn]](https://www.linkedin.com/in/douglascbarcellos/)
+[LinkedIn](https://www.linkedin.com/in/douglascbarcellos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasbarcelloss)
 [![Website](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/douglasbarcellos)
 
