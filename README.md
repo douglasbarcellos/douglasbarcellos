@@ -1,6 +1,5 @@
 # Douglas Barcellos  
 
-## Sobre  
 Sou um **Desenvolvedor Web** e **Engenheiro de Soluções**, com experiência na criação de aplicações otimizadas e soluções estratégicas para negócios. Minha formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Marketing** permite unir habilidades **técnicas e analíticas** para desenvolver sistemas escaláveis e orientados a dados.  
 
 Nos últimos anos, atuei como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão ampla sobre **negócios digitais, analytics e automação**. Hoje, conecto **tecnologia, dados e estratégia** para criar soluções que resolvem problemas reais e geram crescimento.  
