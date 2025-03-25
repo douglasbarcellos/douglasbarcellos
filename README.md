@@ -5,8 +5,6 @@ Sou um **Desenvolvedor Web** e **Engenheiro de Soluções**, com experiência na
 
 Nos últimos anos, atuei como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão ampla sobre **negócios digitais, analytics e automação**. Hoje, conecto **tecnologia, dados e estratégia** para criar soluções que resolvem problemas reais e geram crescimento.  
 
----
-
 ## Tecnologias e Ferramentas  
 ### **Desenvolvimento Web**  
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), ReactJS, NextJS, Bootstrap  
