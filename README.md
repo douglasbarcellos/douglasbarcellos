@@ -1,30 +1,7 @@
-## Douglas Barcellos  
-
-Sou um **Desenvolvedor Web** e **Engenheiro de Soluções**, com experiência na criação de aplicações otimizadas e soluções estratégicas para negócios. Minha formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Marketing** permite unir habilidades **técnicas e analíticas** para desenvolver sistemas escaláveis e orientados a dados.  
-
-Nos últimos anos, atuei como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão ampla sobre **negócios digitais, analytics e automação**. Hoje, conecto **tecnologia, dados e estratégia** para criar soluções que resolvem problemas reais e geram crescimento.  
-
-### 🛠️ Stack
-#### **Desenvolvimento Web**  
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), ReactJS, NextJS, Bootstrap  
-- **Backend:** Python (Django, Flask), Node.js  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-
-#### **Dados & Analytics**  
-- **Linguagens & Ferramentas:** Python, SQL, Power BI, Excel  
-- **Processos:** ETL, Modelagem de Dados, Integração de APIs  
-- **Outros:** Git/GitHub, REST APIs, Metodologias Ágeis (Scrum), SEO  
-
-#### Contato [LinkedIn](https://www.linkedin.com/in/douglasbarcellos/) | [Instagram](https://www.instagram.com/douglasbarcelloss) | [douglasbarcellosti@gmail.com](mailto:douglasbarcellosti@gmail.com)  
-
-
-
 ### 👋 Olá, eu sou Douglas Barcellos 
 ### // Analista de Sistemas, MBA em Marketing e Pós-graduando em Ciência de Dados.
 
-### 🚀 Sobre mim
-
-Atuei nos últimos anos como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão analítica e estratégica para negócios digitais. Agora, como **Engenheiro de Soluções** conecto tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
+Atuei nos últimos anos como **Estrategista de Marketing e Web Analytics**, adquirindo uma visão estratégica exponenciando negócios mergulhando no digital. Agora, como **Engenheiro de Soluções** conecto tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
