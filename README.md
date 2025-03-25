@@ -1,3 +1,34 @@
+# Douglas Barcellos  
+
+## Sobre  
+Sou um **Desenvolvedor Web** e **Engenheiro de Soluções**, com experiência na criação de aplicações otimizadas e soluções estratégicas para negócios. Minha formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Marketing** permite unir habilidades **técnicas e analíticas** para desenvolver sistemas escaláveis e orientados a dados.  
+
+Nos últimos anos, atuei como **Estrategista de Marketing e Gerente de Mídia Paga**, adquirindo uma visão ampla sobre **negócios digitais, analytics e automação**. Hoje, conecto **tecnologia, dados e estratégia** para criar soluções que resolvem problemas reais e geram crescimento.  
+
+---
+
+## Tecnologias e Ferramentas  
+### **Desenvolvimento Web**  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), ReactJS, NextJS, Bootstrap  
+- **Backend:** Python (Django, Flask), Node.js  
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
+
+### **Dados & Analytics**  
+- **Linguagens & Ferramentas:** Python, SQL, Power BI, Excel  
+- **Processos:** ETL, Modelagem de Dados, Integração de APIs  
+
+### **Outros**  
+- Git/GitHub, REST APIs, Metodologias Ágeis (Scrum), SEO  
+
+---
+
+## Contato  
+- **LinkedIn:** [linkedin.com/in/douglasbarcellos](https://www.linkedin.com/in/douglasbarcellos/)  
+- **GitHub:** [github.com/douglasbarcellos](https://github.com/douglasbarcellos/)  
+- **E-mail:** [douglasbarcellosti@gmail.com](mailto:douglasbarcellosti@gmail.com)  
+
+
+
 ### 👋 Olá, eu sou Douglas Barcellos 
 ### // Analista de Sistemas, MBA em Marketing e Pós-graduando em Ciência de Dados.
 
