@@ -15,10 +15,7 @@ Nos últimos anos, atuei como **Estrategista de Marketing e Gerente de Mídia Pa
 - **Processos:** ETL, Modelagem de Dados, Integração de APIs  
 - **Outros:** Git/GitHub, REST APIs, Metodologias Ágeis (Scrum), SEO  
 
-### Contato  
-- **LinkedIn:** [linkedin.com/in/douglasbarcellos](https://www.linkedin.com/in/douglasbarcellos/)  
-- **GitHub:** [github.com/douglasbarcellos](https://github.com/douglasbarcellos/)  
-- **E-mail:** [douglasbarcellosti@gmail.com](mailto:douglasbarcellosti@gmail.com)  
+### Contato [linkedin.com/in/douglasbarcellos](https://www.linkedin.com/in/douglasbarcellos/) [Instagram](https://www.instagram.com/douglasbarcelloss) [douglasbarcellosti@gmail.com](mailto:douglasbarcellosti@gmail.com)  
 
 
 
