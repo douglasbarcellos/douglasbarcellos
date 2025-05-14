@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou Douglas Barcellos 
 ### // Analista de Sistemas, MBA em Marketing e Pós-graduando em Ciência de Dados.
 
-Atuei nos últimos anos como **Estrategista de Marketing e Web Analytics**, adquirindo uma visão estratégica exponenciando negócios mergulhando no digital. Agora, como **Engenheiro de Soluções** conecto tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
+**Engenheiro de Soluções** conectando tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
