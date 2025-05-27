@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou Douglas Barcellos 
-### // Analista de Sistemas, MBA em Marketing e Pós-graduando em Ciência de Dados.
+### // Analista de Sistemas, Pós-graduado em Marketing e em Ciência de Dados.
 
 **Engenheiro de Soluções** conectando tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
 
