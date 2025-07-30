@@ -16,7 +16,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### 📌 Últimos Projetos
-- 🎨 [**Nutri Igor - Landing Page Responsiva**](https://nutriigor.com.br/) | 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/)
+- 🎨 [**Nutri Igor - Landing Page**](https://nutriigor.com.br/) | 💰 [**Finanças PRO**](https://douglasbarcellos.github.io/financaspro/)
   
 #### 📫 Contato - [LinkedIn](https://www.linkedin.com/in/douglasbarcellos) | [Instagram](https://www.instagram.com/douglasbarcelloss) | [Website](https://github.com/douglasbarcellos)
 
