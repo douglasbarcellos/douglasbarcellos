@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou Douglas Barcellos 
 ### // Analista de Sistemas, com Mba em Marketing.
 
-**Líder em Engenharia de Soluções & Gerente de Projetos** conectando tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
+**Engenheiro de Soluções >> Gerente de Projetos** conectando tecnologia, dados e estratégias para criar soluções inovadoras que não apenas resolvem problemas, mas que geram oportunidades de crescimento. Verso entre arquiteturas de dados, analytics e web, sempre buscando entregar valor aos clientes.  
 
 ### 🛠️ Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
